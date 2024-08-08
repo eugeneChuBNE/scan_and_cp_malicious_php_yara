@@ -47,5 +47,15 @@ Please take note of the following:
 - The script utilises the `shell_exec` function to execute the YARA command. Ensure that your system allows the execution of shell commands.
 - The script will create the necessary directories if they don't already exist.
 
-Author: Eugene Chu (eugeneChuBNE@Github)
-Licence: MIT Licence
+## Author
+
+**Eugene Chu** (@eugeneChuBNE)  
+Email (work): [datch@vietnix.com.vn](mailto:datch@vietnix.com.vn)  
+Email (personal): [hiendat.chu.dev@gmail.com](mailto:hiendat.chu.dev@gmail.com)  
+Telegram: [@eugeneChuBNE](https://t.me/eugeneChuBNE)
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
